@@ -12,7 +12,7 @@
 #include <stdexcept>
 #include <cassert>
 
-#include "./PerTypeStorage.h"
+#include "./PerTypeStorage.hpp"
 
 namespace ctm {
 
